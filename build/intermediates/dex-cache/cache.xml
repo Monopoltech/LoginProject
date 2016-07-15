@@ -2,74 +2,74 @@
 <items version="2" >
 
     <item
-        jar="/Users/fatihkan/Desktop/aa/LoginProject/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="/Users/fatihkan/Desktop/aa/LoginProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_35cc2428abe6366b7279e086b3d211b382e2d2bc.jar" />
-    </item>
-    <item
-        jar="/Users/fatihkan/Desktop/aa/LoginProject/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jar="C:\Users\canan\Desktop\work\Mono_\canan\LoginProject\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
-        <dex dex="/Users/fatihkan/Desktop/aa/LoginProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_aad2bcc715548f4e853dbbd96cfc3db436218912.jar" />
+        <dex dex="C:\Users\canan\Desktop\work\Mono_\canan\LoginProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_11bfe8e9bd87c1ec4ae3d623f108caf5bf08d9a2\classes.dex" />
     </item>
     <item
-        jar="/Users/fatihkan/Desktop/aa/LoginProject/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jar="C:\Users\canan\Desktop\work\Mono_\canan\LoginProject\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\canan\Desktop\work\Mono_\canan\LoginProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_21768d97d29a9b8ed674cd917e8196181b98adc9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\canan\Desktop\work\Mono_\canan\LoginProject\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0cc6a451f9c8449fd87e54cd0f95c90f8376f3f3">
+        <dex dex="C:\Users\canan\Desktop\work\Mono_\canan\LoginProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_321172b82ee52573428bf58b322d2bbf5827e446\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\canan\Desktop\work\Mono_\canan\LoginProject\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0b02c987651b513a7564a91512b202498efd5143">
+        <dex dex="C:\Users\canan\Desktop\work\Mono_\canan\LoginProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_195a5b0985323895a58df1d592f6b0353356b59b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\canan\Desktop\work\Mono_\canan\LoginProject\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="/Users/fatihkan/Desktop/aa/LoginProject/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_ce5c8c4ced9dab353cf1d5f56b9f203c59410abb.jar" />
+        <dex dex="C:\Users\canan\Desktop\work\Mono_\canan\LoginProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_8ea56fb97b79c83046d66faf7b469f3cca1c7d2a\classes.dex" />
     </item>
     <item
-        jar="/Users/fatihkan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
-        <dex dex="/Users/fatihkan/Desktop/aa/LoginProject/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_a6a073e01d1fcde51897b60b5dc2262950d26dad.jar" />
-    </item>
-    <item
-        jar="/Users/fatihkan/Desktop/aa/LoginProject/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
-        <dex dex="/Users/fatihkan/Desktop/aa/LoginProject/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.4.0_ca9ea6cdb39d40b7b88b6e55536cb265b7ad8efe.jar" />
-    </item>
-    <item
-        jar="/Users/fatihkan/Desktop/aa/LoginProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jar="C:\Users\canan\Desktop\work\Mono_\canan\LoginProject\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
-        <dex dex="/Users/fatihkan/Desktop/aa/LoginProject/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_3a18a9bb65b34b79dfd40d04c44bf11d2b5a9fdc.jar" />
+        <dex dex="C:\Users\canan\Desktop\work\Mono_\canan\LoginProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_0621612cd3d4445f56492142e113ceb0022ca464\classes.dex" />
     </item>
     <item
-        jar="/Users/fatihkan/Desktop/aa/LoginProject/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jar="C:\Users\canan\Desktop\work\Mono_\canan\LoginProject\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
-        <dex dex="/Users/fatihkan/Desktop/aa/LoginProject/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_e298d8113ca5928648f66c5704f6e4ae3f2249d4.jar" />
+        <dex dex="C:\Users\canan\Desktop\work\Mono_\canan\LoginProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_4af97bbe719e07e685830dbce424d08f2624a12d\classes.dex" />
     </item>
     <item
-        jar="/Users/fatihkan/Desktop/aa/LoginProject/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="C:\Users\canan\Desktop\work\Mono_\canan\LoginProject\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="b66240bda8e648d3a9f5840b14bdf87d0d382cc2">
-        <dex dex="/Users/fatihkan/Desktop/aa/LoginProject/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_5668c8e60b0d3592852f152e73afc11d435c41c4.jar" />
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\canan\Desktop\work\Mono_\canan\LoginProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_0fe9594cae8fc774bea824bb20606174575bf550\classes.dex" />
     </item>
     <item
-        jar="/Users/fatihkan/Desktop/aa/LoginProject/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="8395078f877193840f5e77ac6aaca802f090fa7c">
-        <dex dex="/Users/fatihkan/Desktop/aa/LoginProject/app/build/intermediates/pre-dexed/debug/instant-run_513e8c1d9c06872fd022408e6fb3e378e58d070c.jar" />
-    </item>
-    <item
-        jar="/Users/fatihkan/Desktop/aa/LoginProject/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jar="C:\Users\canan\Desktop\work\Mono_\canan\LoginProject\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
-        <dex dex="/Users/fatihkan/Desktop/aa/LoginProject/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_2976060f748e961ea85a89585b6e7b94d566b341.jar" />
+        <dex dex="C:\Users\canan\Desktop\work\Mono_\canan\LoginProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_172862775180cfad2d61a6ee394ac8d0a56de838\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\canan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\canan\Desktop\work\Mono_\canan\LoginProject\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_8dcd1d676ca0543dd49f2fc5bc109c576aa2d426\classes.dex" />
     </item>
 
 </items>
